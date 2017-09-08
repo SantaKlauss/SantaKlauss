@@ -1,0 +1,58 @@
+F:\Гриценко 8\Гриценко 8\bin\Debug\Гриценко 8.exe
+F:\Гриценко 8\Гриценко 8\bin\Debug\Гриценко 8.pdb
+F:\Гриценко 8\Гриценко 8\obj\Debug\ResolveAssemblyReference.cache
+F:\Гриценко 8\Гриценко 8\obj\Debug\Гриценко_8.Form1.resources
+F:\Гриценко 8\Гриценко 8\obj\Debug\Гриценко_8.FormSettings.resources
+F:\Гриценко 8\Гриценко 8\obj\Debug\Гриценко_8.Properties.Resources.resources
+F:\Гриценко 8\Гриценко 8\obj\Debug\Гриценко 8.csproj.GenerateResource.Cache
+F:\Гриценко 8\Гриценко 8\obj\Debug\Гриценко 8.exe
+F:\Гриценко 8\Гриценко 8\obj\Debug\Гриценко 8.pdb
+I:\Гриценко 8\Гриценко 8\obj\Debug\Гриценко 8.exe
+I:\Гриценко 8\Гриценко 8\obj\Debug\Гриценко 8.pdb
+F:\Игорь\Учеба\VS\Гриценко 8\Гриценко 8\obj\Debug\Гриценко 8.exe
+F:\Игорь\Учеба\VS\Гриценко 8\Гриценко 8\obj\Debug\Гриценко 8.pdb
+F:\Игорь\Учеба\VS\Гриценко 8\Гриценко 8\obj\Debug\ResolveAssemblyReference.cache
+F:\Игорь\Учеба\VS\Гриценко 8\Гриценко 8\obj\Debug\Гриценко_8.Form1.resources
+F:\Игорь\Учеба\VS\Гриценко 8\Гриценко 8\obj\Debug\Гриценко_8.FormSettings.resources
+F:\Игорь\Учеба\VS\Гриценко 8\Гриценко 8\obj\Debug\Гриценко_8.Properties.Resources.resources
+I:\Гриценко 8\Гриценко 8\obj\Debug\ResolveAssemblyReference.cache
+I:\Гриценко 8\Гриценко 8\obj\Debug\Гриценко_8.Form1.resources
+I:\Гриценко 8\Гриценко 8\obj\Debug\Гриценко_8.FormSettings.resources
+I:\Гриценко 8\Гриценко 8\obj\Debug\Гриценко_8.Properties.Resources.resources
+L:\Гриценко 8\Гриценко 8\obj\Debug\Гриценко 8.exe
+L:\Гриценко 8\Гриценко 8\obj\Debug\Гриценко 8.pdb
+L:\Гриценко 8\Гриценко 8\obj\Debug\ResolveAssemblyReference.cache
+L:\Гриценко 8\Гриценко 8\obj\Debug\Гриценко_8.Form1.resources
+L:\Гриценко 8\Гриценко 8\obj\Debug\Гриценко_8.FormSettings.resources
+L:\Гриценко 8\Гриценко 8\obj\Debug\Гриценко_8.Properties.Resources.resources
+L:\Гриценко 8\Гриценко 8\obj\Debug\GenerateResource-ResGen.read.1.tlog
+L:\Гриценко 8\Гриценко 8\obj\Debug\GenerateResource-ResGen.write.1.tlog
+L:\Гриценко 8\Гриценко 8\bin\Debug\Гриценко 8.exe
+L:\Гриценко 8\Гриценко 8\bin\Debug\Гриценко 8.pdb
+F:\Игорь\Учеба\VS\Гриценко 8\Гриценко 8\bin\Debug\Гриценко 8.exe
+F:\Игорь\Учеба\VS\Гриценко 8\Гриценко 8\bin\Debug\Гриценко 8.pdb
+F:\Игорь\Учеба\VS\Гриценко 8\Гриценко 8\obj\Debug\GenerateResource-ResGen.read.1.tlog
+F:\Игорь\Учеба\VS\Гриценко 8\Гриценко 8\obj\Debug\GenerateResource-ResGen.write.1.tlog
+F:\Игорь\Учеба\VS\Гриценко 8\Гриценко 8\obj\Debug\Гриценко_8.Game.resources
+F:\Игорь\~Учеба\1 курс\Наша группа\Программирование\Лабы 7-12\Гриценко 8\Гриценко 8\obj\Debug\Гриценко 8.exe
+F:\Игорь\~Учеба\1 курс\Наша группа\Программирование\Лабы 7-12\Гриценко 8\Гриценко 8\obj\Debug\Гриценко 8.pdb
+F:\Игорь\~Учеба\1 курс\Наша группа\Программирование\Лабы 7-12\Гриценко 8\Гриценко 8\bin\Debug\Гриценко 8.exe
+F:\Игорь\~Учеба\1 курс\Наша группа\Программирование\Лабы 7-12\Гриценко 8\Гриценко 8\bin\Debug\Гриценко 8.pdb
+F:\Игорь\~Учеба\1 курс\Наша группа\Программирование\Лабы 7-12\Гриценко 8\Гриценко 8\obj\Debug\Гриценко 8.csprojResolveAssemblyReference.cache
+F:\Игорь\~Учеба\1 курс\Наша группа\Программирование\Лабы 7-12\Гриценко 8\Гриценко 8\obj\Debug\Гриценко_8.Form1.resources
+F:\Игорь\~Учеба\1 курс\Наша группа\Программирование\Лабы 7-12\Гриценко 8\Гриценко 8\obj\Debug\Гриценко_8.Game.resources
+F:\Игорь\~Учеба\1 курс\Наша группа\Программирование\Лабы 7-12\Гриценко 8\Гриценко 8\obj\Debug\Гриценко_8.FormSettings.resources
+F:\Игорь\~Учеба\1 курс\Наша группа\Программирование\Лабы 7-12\Гриценко 8\Гриценко 8\obj\Debug\Гриценко_8.Properties.Resources.resources
+F:\Игорь\~Учеба\1 курс\Наша группа\Программирование\Лабы 7-12\Гриценко 8\Гриценко 8\obj\Debug\Гриценко 8.csproj.GenerateResource.Cache
+F:\Игорь\~Учеба\Школа Программирования - C# и .Net\labs\Гриценко 8\Гриценко 8\obj\Debug\Гриценко 8.exe
+F:\Игорь\~Учеба\Школа Программирования - C# и .Net\labs\Гриценко 8\Гриценко 8\obj\Debug\Гриценко 8.pdb
+F:\Игорь\~Учеба\Школа Программирования - C# и .Net\labs\Гриценко 8\Гриценко 8\bin\Debug\Гриценко 8.exe
+F:\Игорь\~Учеба\Школа Программирования - C# и .Net\labs\Гриценко 8\Гриценко 8\bin\Debug\Гриценко 8.pdb
+F:\Игорь\~Учеба\Школа Программирования - C# и .Net\labs\Гриценко 8\Гриценко 8\obj\Debug\Гриценко 8.csprojResolveAssemblyReference.cache
+F:\Игорь\~Учеба\Школа Программирования - C# и .Net\labs\Гриценко 8\Гриценко 8\obj\Debug\Гриценко_8.Form1.resources
+F:\Игорь\~Учеба\Школа Программирования - C# и .Net\labs\Гриценко 8\Гриценко 8\obj\Debug\Гриценко_8.Game.resources
+F:\Игорь\~Учеба\Школа Программирования - C# и .Net\labs\Гриценко 8\Гриценко 8\obj\Debug\Гриценко_8.FormSettings.resources
+F:\Игорь\~Учеба\Школа Программирования - C# и .Net\labs\Гриценко 8\Гриценко 8\obj\Debug\Гриценко_8.Properties.Resources.resources
+F:\Игорь\~Учеба\Школа Программирования - C# и .Net\labs\Гриценко 8\Гриценко 8\obj\Debug\Гриценко 8.csproj.GenerateResource.Cache
+F:\Игорь\~Учеба\Школа Программирования - C# и .Net\labs\Игра «Собери больше фигур»\Гриценко 8\obj\Debug\Гриценко 8.exe
+F:\Игорь\~Учеба\Школа Программирования - C# и .Net\labs\Игра «Собери больше фигур»\Гриценко 8\obj\Debug\Гриценко 8.pdb
