@@ -1,0 +1,24 @@
+G:\SOURSE\C#\Game\Game\bin\Debug\Game.exe
+G:\SOURSE\C#\Game\Game\bin\Debug\Game.pdb
+G:\SOURSE\C#\Game\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+G:\SOURSE\C#\Game\Game\obj\Debug\Game.Form1.resources
+G:\SOURSE\C#\Game\Game\obj\Debug\Game.Properties.Resources.resources
+G:\SOURSE\C#\Game\Game\obj\Debug\Game.csproj.GenerateResource.Cache
+G:\SOURSE\C#\Game\Game\obj\Debug\Game.exe
+G:\SOURSE\C#\Game\Game\obj\Debug\Game.pdb
+F:\Игорь\~Учеба\1 курс\Наша группа\Программирование\Курсовая\игр чет-нечет\Game\bin\Debug\Game.exe
+F:\Игорь\~Учеба\1 курс\Наша группа\Программирование\Курсовая\игр чет-нечет\Game\bin\Debug\Game.pdb
+F:\Игорь\~Учеба\1 курс\Наша группа\Программирование\Курсовая\игр чет-нечет\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+F:\Игорь\~Учеба\1 курс\Наша группа\Программирование\Курсовая\игр чет-нечет\Game\obj\Debug\Game.Form1.resources
+F:\Игорь\~Учеба\1 курс\Наша группа\Программирование\Курсовая\игр чет-нечет\Game\obj\Debug\Game.Properties.Resources.resources
+F:\Игорь\~Учеба\1 курс\Наша группа\Программирование\Курсовая\игр чет-нечет\Game\obj\Debug\Game.csproj.GenerateResource.Cache
+F:\Игорь\~Учеба\1 курс\Наша группа\Программирование\Курсовая\игр чет-нечет\Game\obj\Debug\Game.exe
+F:\Игорь\~Учеба\1 курс\Наша группа\Программирование\Курсовая\игр чет-нечет\Game\obj\Debug\Game.pdb
+F:\Игорь\~Учеба\Школа Программирования - C# и .Net\labs\игр чет-нечет\Game\obj\Debug\Game.exe
+F:\Игорь\~Учеба\Школа Программирования - C# и .Net\labs\игр чет-нечет\Game\obj\Debug\Game.pdb
+F:\Игорь\~Учеба\Школа Программирования - C# и .Net\labs\игр чет-нечет\Game\bin\Debug\Game.exe
+F:\Игорь\~Учеба\Школа Программирования - C# и .Net\labs\игр чет-нечет\Game\bin\Debug\Game.pdb
+F:\Игорь\~Учеба\Школа Программирования - C# и .Net\labs\игр чет-нечет\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+F:\Игорь\~Учеба\Школа Программирования - C# и .Net\labs\игр чет-нечет\Game\obj\Debug\Game.Form1.resources
+F:\Игорь\~Учеба\Школа Программирования - C# и .Net\labs\игр чет-нечет\Game\obj\Debug\Game.Properties.Resources.resources
+F:\Игорь\~Учеба\Школа Программирования - C# и .Net\labs\игр чет-нечет\Game\obj\Debug\Game.csproj.GenerateResource.Cache
