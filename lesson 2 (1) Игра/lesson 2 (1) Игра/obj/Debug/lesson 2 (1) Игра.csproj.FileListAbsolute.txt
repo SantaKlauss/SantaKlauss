@@ -1,0 +1,6 @@
+F:\Игорь\~Учеба\Школа Программирования - C# и .Net\labs\lesson 2 (1) Игра\lesson 2 (1) Игра\bin\Debug\lesson 2 (1) Игра.exe.config
+F:\Игорь\~Учеба\Школа Программирования - C# и .Net\labs\lesson 2 (1) Игра\lesson 2 (1) Игра\obj\Debug\lesson 2 (1) Игра.csprojResolveAssemblyReference.cache
+F:\Игорь\~Учеба\Школа Программирования - C# и .Net\labs\lesson 2 (1) Игра\lesson 2 (1) Игра\bin\Debug\lesson 2 (1) Игра.exe
+F:\Игорь\~Учеба\Школа Программирования - C# и .Net\labs\lesson 2 (1) Игра\lesson 2 (1) Игра\bin\Debug\lesson 2 (1) Игра.pdb
+F:\Игорь\~Учеба\Школа Программирования - C# и .Net\labs\lesson 2 (1) Игра\lesson 2 (1) Игра\obj\Debug\lesson 2 (1) Игра.exe
+F:\Игорь\~Учеба\Школа Программирования - C# и .Net\labs\lesson 2 (1) Игра\lesson 2 (1) Игра\obj\Debug\lesson 2 (1) Игра.pdb

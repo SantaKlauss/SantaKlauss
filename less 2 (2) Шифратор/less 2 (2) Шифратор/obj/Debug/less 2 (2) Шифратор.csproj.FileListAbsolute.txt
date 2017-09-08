@@ -1,0 +1,6 @@
+F:\Игорь\~Учеба\Школа Программирования - C# и .Net\labs\less 2 (2) Шифратор\less 2 (2) Шифратор\bin\Debug\less 2 (2) Шифратор.exe.config
+F:\Игорь\~Учеба\Школа Программирования - C# и .Net\labs\less 2 (2) Шифратор\less 2 (2) Шифратор\obj\Debug\less 2 (2) Шифратор.csprojResolveAssemblyReference.cache
+F:\Игорь\~Учеба\Школа Программирования - C# и .Net\labs\less 2 (2) Шифратор\less 2 (2) Шифратор\bin\Debug\less 2 (2) Шифратор.exe
+F:\Игорь\~Учеба\Школа Программирования - C# и .Net\labs\less 2 (2) Шифратор\less 2 (2) Шифратор\bin\Debug\less 2 (2) Шифратор.pdb
+F:\Игорь\~Учеба\Школа Программирования - C# и .Net\labs\less 2 (2) Шифратор\less 2 (2) Шифратор\obj\Debug\less 2 (2) Шифратор.exe
+F:\Игорь\~Учеба\Школа Программирования - C# и .Net\labs\less 2 (2) Шифратор\less 2 (2) Шифратор\obj\Debug\less 2 (2) Шифратор.pdb
