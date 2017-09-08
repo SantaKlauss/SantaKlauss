@@ -1,0 +1,51 @@
+c:\users\администратор\documents\visual studio 2010\Projects\Gricenko07\Gricenko07\bin\Debug\Gricenko07.exe
+c:\users\администратор\documents\visual studio 2010\Projects\Gricenko07\Gricenko07\bin\Debug\Gricenko07.pdb
+c:\users\администратор\documents\visual studio 2010\Projects\Gricenko07\Gricenko07\obj\x86\Debug\Gricenko07.Form1.resources
+c:\users\администратор\documents\visual studio 2010\Projects\Gricenko07\Gricenko07\obj\x86\Debug\Gricenko07.Properties.Resources.resources
+c:\users\администратор\documents\visual studio 2010\Projects\Gricenko07\Gricenko07\obj\x86\Debug\Gricenko07.csproj.GenerateResource.Cache
+c:\users\администратор\documents\visual studio 2010\Projects\Gricenko07\Gricenko07\obj\x86\Debug\Gricenko07.exe
+c:\users\администратор\documents\visual studio 2010\Projects\Gricenko07\Gricenko07\obj\x86\Debug\Gricenko07.pdb
+C:\Users\Администратор\documents\visual studio 2010\Projects\Gricenko07\Gricenko07\obj\x86\Debug\Gricenko07.csprojResolveAssemblyReference.cache
+K:\Gricenko07\Gricenko07\obj\x86\Debug\Gricenko07.exe
+K:\Gricenko07\Gricenko07\obj\x86\Debug\Gricenko07.pdb
+K:\Gricenko07\Gricenko07\bin\Debug\Gricenko07.exe
+K:\Gricenko07\Gricenko07\bin\Debug\Gricenko07.pdb
+K:\Gricenko07\Gricenko07\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\Gricenko07\Gricenko07\obj\x86\Debug\Gricenko07.Form1.resources
+K:\Gricenko07\Gricenko07\obj\x86\Debug\Gricenko07.Properties.Resources.resources
+K:\Gricenko07\Gricenko07\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\Gricenko07\Gricenko07\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\Gricenko07\Gricenko07\obj\x86\Debug\Gricenko07.exe
+I:\Gricenko07\Gricenko07\obj\x86\Debug\Gricenko07.pdb
+I:\Gricenko07\Gricenko07\bin\Debug\Gricenko07.exe
+I:\Gricenko07\Gricenko07\bin\Debug\Gricenko07.pdb
+I:\Gricenko07\Gricenko07\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Gricenko07\Gricenko07\obj\x86\Debug\Gricenko07.Form1.resources
+I:\Gricenko07\Gricenko07\obj\x86\Debug\Gricenko07.Properties.Resources.resources
+I:\Gricenko07\Gricenko07\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\Gricenko07\Gricenko07\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Игорь\Учеба\VS\Gricenko07\Gricenko07\obj\x86\Debug\Gricenko07.exe
+F:\Игорь\Учеба\VS\Gricenko07\Gricenko07\obj\x86\Debug\Gricenko07.pdb
+F:\Игорь\Учеба\VS\Gricenko07\Gricenko07\bin\Debug\Gricenko07.exe
+F:\Игорь\Учеба\VS\Gricenko07\Gricenko07\bin\Debug\Gricenko07.pdb
+F:\Игорь\Учеба\VS\Gricenko07\Gricenko07\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Игорь\Учеба\VS\Gricenko07\Gricenko07\obj\x86\Debug\Gricenko07.Form1.resources
+F:\Игорь\Учеба\VS\Gricenko07\Gricenko07\obj\x86\Debug\Gricenko07.Properties.Resources.resources
+F:\Игорь\Учеба\VS\Gricenko07\Gricenko07\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Игорь\Учеба\VS\Gricenko07\Gricenko07\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Игорь\~Учеба\1 курс\Наша группа\Программирование\Лабы 7-12\Gricenko07\Gricenko07\obj\x86\Debug\Gricenko07.exe
+F:\Игорь\~Учеба\1 курс\Наша группа\Программирование\Лабы 7-12\Gricenko07\Gricenko07\obj\x86\Debug\Gricenko07.pdb
+F:\Игорь\~Учеба\1 курс\Наша группа\Программирование\Лабы 7-12\Gricenko07\Gricenko07\bin\Debug\Gricenko07.exe
+F:\Игорь\~Учеба\1 курс\Наша группа\Программирование\Лабы 7-12\Gricenko07\Gricenko07\bin\Debug\Gricenko07.pdb
+F:\Игорь\~Учеба\1 курс\Наша группа\Программирование\Лабы 7-12\Gricenko07\Gricenko07\obj\x86\Debug\Gricenko07.csprojResolveAssemblyReference.cache
+F:\Игорь\~Учеба\1 курс\Наша группа\Программирование\Лабы 7-12\Gricenko07\Gricenko07\obj\x86\Debug\Gricenko07.Form1.resources
+F:\Игорь\~Учеба\1 курс\Наша группа\Программирование\Лабы 7-12\Gricenko07\Gricenko07\obj\x86\Debug\Gricenko07.Properties.Resources.resources
+F:\Игорь\~Учеба\1 курс\Наша группа\Программирование\Лабы 7-12\Gricenko07\Gricenko07\obj\x86\Debug\Gricenko07.csproj.GenerateResource.Cache
+F:\Игорь\~Учеба\Школа Программирования - C# и .Net\labs\Построение графика функции\Gricenko07\obj\x86\Debug\Gricenko07.exe
+F:\Игорь\~Учеба\Школа Программирования - C# и .Net\labs\Построение графика функции\Gricenko07\obj\x86\Debug\Gricenko07.pdb
+F:\Игорь\~Учеба\Школа Программирования - C# и .Net\labs\Построение графика функции\Gricenko07\bin\Debug\Gricenko07.exe
+F:\Игорь\~Учеба\Школа Программирования - C# и .Net\labs\Построение графика функции\Gricenko07\bin\Debug\Gricenko07.pdb
+F:\Игорь\~Учеба\Школа Программирования - C# и .Net\labs\Построение графика функции\Gricenko07\obj\x86\Debug\Gricenko07.csprojResolveAssemblyReference.cache
+F:\Игорь\~Учеба\Школа Программирования - C# и .Net\labs\Построение графика функции\Gricenko07\obj\x86\Debug\Gricenko07.Form1.resources
+F:\Игорь\~Учеба\Школа Программирования - C# и .Net\labs\Построение графика функции\Gricenko07\obj\x86\Debug\Gricenko07.Properties.Resources.resources
+F:\Игорь\~Учеба\Школа Программирования - C# и .Net\labs\Построение графика функции\Gricenko07\obj\x86\Debug\Gricenko07.csproj.GenerateResource.Cache

@@ -1,0 +1,13 @@
+c:\users\администратор\documents\visual studio 2010\Projects\Лаба2\Лаба2\bin\Debug\Лаба2.exe
+c:\users\администратор\documents\visual studio 2010\Projects\Лаба2\Лаба2\bin\Debug\Лаба2.pdb
+c:\users\администратор\documents\visual studio 2010\Projects\Лаба2\Лаба2\obj\x86\Debug\Лаба2.exe
+c:\users\администратор\documents\visual studio 2010\Projects\Лаба2\Лаба2\obj\x86\Debug\Лаба2.pdb
+F:\Игорь\~Учеба\1 курс\Наша группа\Об-Ор.анализ\Лаба2\Лаба2\obj\x86\Debug\Лаба2.exe
+F:\Игорь\~Учеба\1 курс\Наша группа\Об-Ор.анализ\Лаба2\Лаба2\obj\x86\Debug\Лаба2.pdb
+F:\Игорь\~Учеба\1 курс\Наша группа\Об-Ор.анализ\Лаба2\Лаба2\bin\Debug\Лаба2.exe
+F:\Игорь\~Учеба\1 курс\Наша группа\Об-Ор.анализ\Лаба2\Лаба2\bin\Debug\Лаба2.pdb
+F:\Игорь\~Учеба\Школа Программирования - C# и .Net\labs\Работа с классами\Лаба2\obj\x86\Debug\Лаба2.exe
+F:\Игорь\~Учеба\Школа Программирования - C# и .Net\labs\Работа с классами\Лаба2\obj\x86\Debug\Лаба2.pdb
+F:\Игорь\~Учеба\Школа Программирования - C# и .Net\labs\Работа с классами\Лаба2\bin\Debug\Лаба2.exe
+F:\Игорь\~Учеба\Школа Программирования - C# и .Net\labs\Работа с классами\Лаба2\bin\Debug\Лаба2.pdb
+F:\Игорь\~Учеба\Школа Программирования - C# и .Net\labs\Работа с классами\Лаба2\obj\x86\Debug\Лаба2.csprojResolveAssemblyReference.cache

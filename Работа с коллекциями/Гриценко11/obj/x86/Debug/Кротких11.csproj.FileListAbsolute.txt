@@ -1,0 +1,10 @@
+D:\Work\VSproject\Кротких11\bin\Debug\Кротких11.exe
+D:\Work\VSproject\Кротких11\bin\Debug\Кротких11.pdb
+D:\Work\VSproject\Кротких11\obj\x86\Debug\Кротких11.Form1.resources
+D:\Work\VSproject\Кротких11\obj\x86\Debug\Кротких11.Properties.Resources.resources
+D:\Work\VSproject\Кротких11\obj\x86\Debug\Кротких11.csproj.GenerateResource.Cache
+D:\Work\VSproject\Кротких11\obj\x86\Debug\Кротких11.exe
+D:\Work\VSproject\Кротких11\obj\x86\Debug\Кротких11.pdb
+D:\Work\VSproject\Кротких11\obj\x86\Debug\Кротких11.csprojResolveAssemblyReference.cache
+C:\Users\наташа\Desktop\Кротких11\obj\x86\Debug\Кротких11.exe
+C:\Users\наташа\Desktop\Кротких11\obj\x86\Debug\Кротких11.pdb
