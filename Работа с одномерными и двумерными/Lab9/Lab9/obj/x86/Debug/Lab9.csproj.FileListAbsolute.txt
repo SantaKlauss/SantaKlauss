@@ -1,0 +1,54 @@
+C:\WORK\Lab9\Lab9\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\WORK\Lab9\Lab9\obj\x86\Debug\Lab9.Form1.resources
+C:\WORK\Lab9\Lab9\obj\x86\Debug\Lab9.Properties.Resources.resources
+C:\WORK\Lab9\Lab9\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\WORK\Lab9\Lab9\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\WORK\Lab9\Lab9\bin\Debug\Lab9.exe
+C:\WORK\Lab9\Lab9\bin\Debug\Lab9.pdb
+C:\WORK\Lab9\Lab9\obj\x86\Debug\Lab9.exe
+C:\WORK\Lab9\Lab9\obj\x86\Debug\Lab9.pdb
+C:\WORK\Lab9\Lab9\obj\x86\Debug\Lab9.Form2.resources
+F:\Игорь\Учеба\Наша группа\Программирование\Lab9\Lab9\Lab9\obj\x86\Debug\Lab9.exe
+F:\Игорь\Учеба\Наша группа\Программирование\Lab9\Lab9\Lab9\obj\x86\Debug\Lab9.pdb
+F:\Игорь\Учеба\Наша группа\Программирование\Lab9\Lab9\Lab9\bin\Debug\Lab9.exe
+F:\Игорь\Учеба\Наша группа\Программирование\Lab9\Lab9\Lab9\bin\Debug\Lab9.pdb
+F:\Игорь\Учеба\Наша группа\Программирование\Lab9\Lab9\Lab9\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Игорь\Учеба\Наша группа\Программирование\Lab9\Lab9\Lab9\obj\x86\Debug\Lab9.Form1.resources
+F:\Игорь\Учеба\Наша группа\Программирование\Lab9\Lab9\Lab9\obj\x86\Debug\Lab9.Form2.resources
+F:\Игорь\Учеба\Наша группа\Программирование\Lab9\Lab9\Lab9\obj\x86\Debug\Lab9.Properties.Resources.resources
+F:\Игорь\Учеба\Наша группа\Программирование\Lab9\Lab9\Lab9\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Игорь\Учеба\Наша группа\Программирование\Lab9\Lab9\Lab9\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Игорь\Учеба\1 курс\Наша группа\Программирование\Lab9\Lab9\Lab9\obj\x86\Debug\Lab9.exe
+F:\Игорь\Учеба\1 курс\Наша группа\Программирование\Lab9\Lab9\Lab9\obj\x86\Debug\Lab9.pdb
+F:\Игорь\Учеба\1 курс\Наша группа\Программирование\Lab9\Lab9\Lab9\bin\Debug\Lab9.exe
+F:\Игорь\Учеба\1 курс\Наша группа\Программирование\Lab9\Lab9\Lab9\bin\Debug\Lab9.pdb
+F:\Игорь\Учеба\1 курс\Наша группа\Программирование\Lab9\Lab9\Lab9\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Игорь\Учеба\1 курс\Наша группа\Программирование\Lab9\Lab9\Lab9\obj\x86\Debug\Lab9.Form1.resources
+F:\Игорь\Учеба\1 курс\Наша группа\Программирование\Lab9\Lab9\Lab9\obj\x86\Debug\Lab9.Form2.resources
+F:\Игорь\Учеба\1 курс\Наша группа\Программирование\Lab9\Lab9\Lab9\obj\x86\Debug\Lab9.Properties.Resources.resources
+F:\Игорь\Учеба\1 курс\Наша группа\Программирование\Lab9\Lab9\Lab9\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Игорь\Учеба\1 курс\Наша группа\Программирование\Lab9\Lab9\Lab9\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Игорь\Учеба\1 курс\Наша группа\Программирование\Лабы 7-12\Lab9\Lab9\Lab9\obj\x86\Debug\Lab9.exe
+F:\Игорь\Учеба\1 курс\Наша группа\Программирование\Лабы 7-12\Lab9\Lab9\Lab9\obj\x86\Debug\Lab9.pdb
+F:\Игорь\~Учеба\1 курс\Наша группа\Программирование\Лабы 7-12\Lab9\Lab9\Lab9\obj\x86\Debug\Lab9.exe
+F:\Игорь\~Учеба\1 курс\Наша группа\Программирование\Лабы 7-12\Lab9\Lab9\Lab9\obj\x86\Debug\Lab9.pdb
+F:\Игорь\~Учеба\1 курс\Наша группа\Программирование\Лабы 7-12\Lab9\Lab9\Lab9\bin\Debug\Lab9.exe
+F:\Игорь\~Учеба\1 курс\Наша группа\Программирование\Лабы 7-12\Lab9\Lab9\Lab9\bin\Debug\Lab9.pdb
+F:\Игорь\~Учеба\1 курс\Наша группа\Программирование\Лабы 7-12\Lab9\Lab9\Lab9\obj\x86\Debug\Lab9.csprojResolveAssemblyReference.cache
+F:\Игорь\~Учеба\1 курс\Наша группа\Программирование\Лабы 7-12\Lab9\Lab9\Lab9\obj\x86\Debug\Lab9.Form1.resources
+F:\Игорь\~Учеба\1 курс\Наша группа\Программирование\Лабы 7-12\Lab9\Lab9\Lab9\obj\x86\Debug\Lab9.Form2.resources
+F:\Игорь\~Учеба\1 курс\Наша группа\Программирование\Лабы 7-12\Lab9\Lab9\Lab9\obj\x86\Debug\Lab9.Properties.Resources.resources
+F:\Игорь\~Учеба\1 курс\Наша группа\Программирование\Лабы 7-12\Lab9\Lab9\Lab9\obj\x86\Debug\Lab9.csproj.GenerateResource.Cache
+F:\Игорь\~Учеба\Школа Программирования - C# и .Net\labs\Lab9\Lab9\Lab9\obj\x86\Debug\Lab9.exe
+F:\Игорь\~Учеба\Школа Программирования - C# и .Net\labs\Lab9\Lab9\Lab9\obj\x86\Debug\Lab9.pdb
+F:\Игорь\~Учеба\Школа Программирования - C# и .Net\labs\Lab9\Lab9\Lab9\bin\Debug\Lab9.exe
+F:\Игорь\~Учеба\Школа Программирования - C# и .Net\labs\Lab9\Lab9\Lab9\bin\Debug\Lab9.pdb
+F:\Игорь\~Учеба\Школа Программирования - C# и .Net\labs\Lab9\Lab9\Lab9\obj\x86\Debug\Lab9.csprojResolveAssemblyReference.cache
+F:\Игорь\~Учеба\Школа Программирования - C# и .Net\labs\Lab9\Lab9\Lab9\obj\x86\Debug\Lab9.Form1.resources
+F:\Игорь\~Учеба\Школа Программирования - C# и .Net\labs\Lab9\Lab9\Lab9\obj\x86\Debug\Lab9.Form2.resources
+F:\Игорь\~Учеба\Школа Программирования - C# и .Net\labs\Lab9\Lab9\Lab9\obj\x86\Debug\Lab9.Properties.Resources.resources
+F:\Игорь\~Учеба\Школа Программирования - C# и .Net\labs\Lab9\Lab9\Lab9\obj\x86\Debug\Lab9.csproj.GenerateResource.Cache
+F:\Игорь\~Учеба\Школа Программирования - C# и .Net\labs\Работа с одномерными и двумерными\Lab9\Lab9\obj\x86\Debug\Lab9.exe
+F:\Игорь\~Учеба\Школа Программирования - C# и .Net\labs\Работа с одномерными и двумерными\Lab9\Lab9\obj\x86\Debug\Lab9.pdb
+H:\Игорь\~Учеба\Школа Программирования - C# и .Net\labs\Работа с одномерными и двумерными\Lab9\Lab9\obj\x86\Debug\Lab9.exe
+H:\Игорь\~Учеба\Школа Программирования - C# и .Net\labs\Работа с одномерными и двумерными\Lab9\Lab9\obj\x86\Debug\Lab9.pdb
