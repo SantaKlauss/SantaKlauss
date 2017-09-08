@@ -1,0 +1,9 @@
+F:\Игорь\~Учеба\Школа Программирования - C# и .Net\labs\Таймер\Таймер\bin\Debug\Таймер.exe.config
+F:\Игорь\~Учеба\Школа Программирования - C# и .Net\labs\Таймер\Таймер\bin\Debug\Таймер.exe
+F:\Игорь\~Учеба\Школа Программирования - C# и .Net\labs\Таймер\Таймер\bin\Debug\Таймер.pdb
+F:\Игорь\~Учеба\Школа Программирования - C# и .Net\labs\Таймер\Таймер\obj\Debug\Таймер.csprojResolveAssemblyReference.cache
+F:\Игорь\~Учеба\Школа Программирования - C# и .Net\labs\Таймер\Таймер\obj\Debug\Таймер.FormMain.resources
+F:\Игорь\~Учеба\Школа Программирования - C# и .Net\labs\Таймер\Таймер\obj\Debug\Таймер.Properties.Resources.resources
+F:\Игорь\~Учеба\Школа Программирования - C# и .Net\labs\Таймер\Таймер\obj\Debug\Таймер.csproj.GenerateResource.Cache
+F:\Игорь\~Учеба\Школа Программирования - C# и .Net\labs\Таймер\Таймер\obj\Debug\Таймер.exe
+F:\Игорь\~Учеба\Школа Программирования - C# и .Net\labs\Таймер\Таймер\obj\Debug\Таймер.pdb
