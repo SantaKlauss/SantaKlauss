@@ -1,0 +1,10 @@
+F:\Игорь\~Учеба\Школа Программирования - C# и .Net\Школа Программирования - C# и .Net\03. Методы\Исходники\CrissCrossGame\bin\Debug\CrissCrossGame.exe
+F:\Игорь\~Учеба\Школа Программирования - C# и .Net\Школа Программирования - C# и .Net\03. Методы\Исходники\CrissCrossGame\bin\Debug\CrissCrossGame.pdb
+F:\Игорь\~Учеба\Школа Программирования - C# и .Net\Школа Программирования - C# и .Net\03. Методы\Исходники\CrissCrossGame\obj\x86\Debug\CrissCrossGame.csprojResolveAssemblyReference.cache
+F:\Игорь\~Учеба\Школа Программирования - C# и .Net\Школа Программирования - C# и .Net\03. Методы\Исходники\CrissCrossGame\obj\x86\Debug\CrissCrossGame.exe
+F:\Игорь\~Учеба\Школа Программирования - C# и .Net\Школа Программирования - C# и .Net\03. Методы\Исходники\CrissCrossGame\obj\x86\Debug\CrissCrossGame.pdb
+F:\Игорь\~Учеба\Школа Программирования - C# и .Net\labs\CrissCrossGame\obj\x86\Debug\CrissCrossGame.exe
+F:\Игорь\~Учеба\Школа Программирования - C# и .Net\labs\CrissCrossGame\obj\x86\Debug\CrissCrossGame.pdb
+F:\Игорь\~Учеба\Школа Программирования - C# и .Net\labs\CrissCrossGame\bin\Debug\CrissCrossGame.exe
+F:\Игорь\~Учеба\Школа Программирования - C# и .Net\labs\CrissCrossGame\bin\Debug\CrissCrossGame.pdb
+F:\Игорь\~Учеба\Школа Программирования - C# и .Net\labs\CrissCrossGame\obj\x86\Debug\CrissCrossGame.csprojResolveAssemblyReference.cache
