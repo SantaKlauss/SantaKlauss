@@ -1,0 +1,10 @@
+C:\Users\laitauril\Documents\Visual Studio 2012\Projects\ExpertAvto\ExpertAvto\bin\Release\ExpertAvto.exe.config
+C:\Users\laitauril\Documents\Visual Studio 2012\Projects\ExpertAvto\ExpertAvto\bin\Release\DB.sdf
+C:\Users\laitauril\Documents\Visual Studio 2012\Projects\ExpertAvto\ExpertAvto\bin\Release\KB.sdf
+C:\Users\laitauril\Documents\Visual Studio 2012\Projects\ExpertAvto\ExpertAvto\bin\Release\ExpertAvto.exe
+C:\Users\laitauril\Documents\Visual Studio 2012\Projects\ExpertAvto\ExpertAvto\bin\Release\ExpertAvto.pdb
+C:\Users\laitauril\Documents\Visual Studio 2012\Projects\ExpertAvto\ExpertAvto\obj\Release\ExpertAvto.ImageForm.resources
+C:\Users\laitauril\Documents\Visual Studio 2012\Projects\ExpertAvto\ExpertAvto\obj\Release\ExpertAvto.Properties.Resources.resources
+C:\Users\laitauril\Documents\Visual Studio 2012\Projects\ExpertAvto\ExpertAvto\obj\Release\ExpertAvto.csproj.GenerateResource.Cache
+C:\Users\laitauril\Documents\Visual Studio 2012\Projects\ExpertAvto\ExpertAvto\obj\Release\ExpertAvto.exe
+C:\Users\laitauril\Documents\Visual Studio 2012\Projects\ExpertAvto\ExpertAvto\obj\Release\ExpertAvto.pdb

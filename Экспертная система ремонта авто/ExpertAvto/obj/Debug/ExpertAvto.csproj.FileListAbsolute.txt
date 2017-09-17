@@ -1,0 +1,22 @@
+C:\Users\laitauril\Documents\Visual Studio 2012\Projects\ExpertAvto\ExpertAvto\bin\Debug\ExpertAvto.exe.config
+C:\Users\laitauril\Documents\Visual Studio 2012\Projects\ExpertAvto\ExpertAvto\bin\Debug\ExpertAvto.exe
+C:\Users\laitauril\Documents\Visual Studio 2012\Projects\ExpertAvto\ExpertAvto\bin\Debug\ExpertAvto.pdb
+C:\Users\laitauril\Documents\Visual Studio 2012\Projects\ExpertAvto\ExpertAvto\obj\Debug\ExpertAvto.csprojResolveAssemblyReference.cache
+C:\Users\laitauril\Documents\Visual Studio 2012\Projects\ExpertAvto\ExpertAvto\obj\Debug\ExpertAvto.exe
+C:\Users\laitauril\Documents\Visual Studio 2012\Projects\ExpertAvto\ExpertAvto\obj\Debug\ExpertAvto.pdb
+C:\Users\laitauril\Documents\Visual Studio 2012\Projects\ExpertAvto\ExpertAvto\bin\Debug\DB.sdf
+C:\Users\laitauril\Documents\Visual Studio 2012\Projects\ExpertAvto\ExpertAvto\bin\Debug\KB.sdf
+C:\Users\laitauril\Documents\Visual Studio 2012\Projects\ExpertAvto\ExpertAvto\obj\Debug\ExpertAvto.ImageForm.resources
+C:\Users\laitauril\Documents\Visual Studio 2012\Projects\ExpertAvto\ExpertAvto\obj\Debug\ExpertAvto.Properties.Resources.resources
+C:\Users\laitauril\Documents\Visual Studio 2012\Projects\ExpertAvto\ExpertAvto\obj\Debug\ExpertAvto.csproj.GenerateResource.Cache
+C:\Users\Гоша\Desktop\ExpertAvto\ExpertAvto\bin\Debug\ExpertAvto.exe.config
+C:\Users\Гоша\Desktop\ExpertAvto\ExpertAvto\obj\Debug\ExpertAvto.exe
+C:\Users\Гоша\Desktop\ExpertAvto\ExpertAvto\obj\Debug\ExpertAvto.pdb
+C:\Users\Гоша\Desktop\ExpertAvto\ExpertAvto\bin\Debug\DB.sdf
+C:\Users\Гоша\Desktop\ExpertAvto\ExpertAvto\bin\Debug\KB.sdf
+C:\Users\Гоша\Desktop\ExpertAvto\ExpertAvto\bin\Debug\ExpertAvto.exe
+C:\Users\Гоша\Desktop\ExpertAvto\ExpertAvto\bin\Debug\ExpertAvto.pdb
+C:\Users\Гоша\Desktop\ExpertAvto\ExpertAvto\obj\Debug\ExpertAvto.csprojResolveAssemblyReference.cache
+C:\Users\Гоша\Desktop\ExpertAvto\ExpertAvto\obj\Debug\ExpertAvto.ImageForm.resources
+C:\Users\Гоша\Desktop\ExpertAvto\ExpertAvto\obj\Debug\ExpertAvto.Properties.Resources.resources
+C:\Users\Гоша\Desktop\ExpertAvto\ExpertAvto\obj\Debug\ExpertAvto.csproj.GenerateResource.Cache
