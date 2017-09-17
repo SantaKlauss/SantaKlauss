@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Предметы\Практика2014\Автосервис\Автосервис\bin\Debug\Автосервис.exe
+C:\Users\User\Desktop\Предметы\Практика2014\Автосервис\Автосервис\bin\Debug\Автосервис.pdb
+C:\Users\User\Desktop\Предметы\Практика2014\Автосервис\Автосервис\obj\x86\Debug\Автосервис.frmService.resources
+C:\Users\User\Desktop\Предметы\Практика2014\Автосервис\Автосервис\obj\x86\Debug\Автосервис.Properties.Resources.resources
+C:\Users\User\Desktop\Предметы\Практика2014\Автосервис\Автосервис\obj\x86\Debug\Автосервис.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Предметы\Практика2014\Автосервис\Автосервис\obj\x86\Debug\Автосервис.exe
+C:\Users\User\Desktop\Предметы\Практика2014\Автосервис\Автосервис\obj\x86\Debug\Автосервис.pdb
+C:\Users\User\Desktop\Предметы\Практика2014\Автосервис\Автосервис\obj\x86\Debug\Автосервис.ClientsForm.resources
+C:\Users\User\Desktop\Предметы\Практика2014\Автосервис\Автосервис\obj\x86\Debug\Автосервис.UslugiForm.resources
+C:\Users\User\Desktop\Предметы\Практика2014\Автосервис\Автосервис\obj\x86\Debug\Автосервис.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Предметы\Практика2014\Автосервис\Автосервис\obj\x86\Debug\Автосервис.FindForm.resources
+C:\Users\User\Desktop\Предметы\Практика2014\Автосервис\Автосервис\obj\x86\Debug\Автосервис.frmLinq.resources
+A:\Артур\Учеба\1 курс\Практика\Практика2014\Автосервис (2)\Автосервис\Автосервис\obj\x86\Debug\Автосервис.exe
+A:\Артур\Учеба\1 курс\Практика\Практика2014\Автосервис (2)\Автосервис\Автосервис\obj\x86\Debug\Автосервис.pdb

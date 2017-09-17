@@ -1,0 +1,11 @@
+C:\Users\Администратор\Desktop\Автосервис\Автосервис\bin\Debug\Автосервис.exe
+C:\Users\Администратор\Desktop\Автосервис\Автосервис\bin\Debug\Автосервис.pdb
+C:\Users\Администратор\Desktop\Автосервис\Автосервис\obj\x86\Debug\Завод.ClientsForm.resources
+C:\Users\Администратор\Desktop\Автосервис\Автосервис\obj\x86\Debug\Завод.FindForm.resources
+C:\Users\Администратор\Desktop\Автосервис\Автосервис\obj\x86\Debug\Завод.frmService.resources
+C:\Users\Администратор\Desktop\Автосервис\Автосервис\obj\x86\Debug\Завод.frmLinq.resources
+C:\Users\Администратор\Desktop\Автосервис\Автосервис\obj\x86\Debug\Автосервис.Properties.Resources.resources
+C:\Users\Администратор\Desktop\Автосервис\Автосервис\obj\x86\Debug\Завод.goodsForm.resources
+C:\Users\Администратор\Desktop\Автосервис\Автосервис\obj\x86\Debug\Zavod.csproj.GenerateResource.Cache
+C:\Users\Администратор\Desktop\Автосервис\Автосервис\obj\x86\Debug\Автосервис.exe
+C:\Users\Администратор\Desktop\Автосервис\Автосервис\obj\x86\Debug\Автосервис.pdb
