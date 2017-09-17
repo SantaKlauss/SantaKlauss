@@ -1,0 +1,46 @@
+C:\Users\laitauril\documents\visual studio 2012\Projects\Turism\Turism\bin\Release\Turism.exe.config
+C:\Users\laitauril\documents\visual studio 2012\Projects\Turism\Turism\bin\Release\Turism.exe
+C:\Users\laitauril\documents\visual studio 2012\Projects\Turism\Turism\bin\Release\Turism.pdb
+C:\Users\laitauril\documents\visual studio 2012\Projects\Turism\Turism\obj\Release\Turism.Form1.resources
+C:\Users\laitauril\documents\visual studio 2012\Projects\Turism\Turism\obj\Release\Turism.Properties.Resources.resources
+C:\Users\laitauril\documents\visual studio 2012\Projects\Turism\Turism\obj\Release\Turism.csproj.GenerateResource.Cache
+C:\Users\laitauril\documents\visual studio 2012\Projects\Turism\Turism\obj\Release\Turism.exe
+C:\Users\laitauril\documents\visual studio 2012\Projects\Turism\Turism\obj\Release\Turism.pdb
+C:\Users\laitauril\documents\visual studio 2012\Projects\Turism\Turism\obj\Release\Turism.csprojResolveAssemblyReference.cache
+C:\Users\laitauril\Documents\Visual Studio 2012\Projects\Turism\Turism\bin\Release\MySql.Data.dll
+E:\Документы\Visual Studio 2012\Projects\Turism\Turism\bin\Release\Turism.exe.config
+E:\Документы\Visual Studio 2012\Projects\Turism\Turism\obj\Release\Turism.exe
+E:\Документы\Visual Studio 2012\Projects\Turism\Turism\obj\Release\Turism.pdb
+E:\Документы\Visual Studio 2012\Projects\Turism\Turism\bin\Release\Turism.exe
+E:\Документы\Visual Studio 2012\Projects\Turism\Turism\bin\Release\Turism.pdb
+E:\Документы\Visual Studio 2012\Projects\Turism\Turism\obj\Release\Turism.csprojResolveAssemblyReference.cache
+E:\Документы\Visual Studio 2012\Projects\Turism\Turism\obj\Release\Turism.Form1.resources
+E:\Документы\Visual Studio 2012\Projects\Turism\Turism\obj\Release\Turism.Properties.Resources.resources
+E:\Документы\Visual Studio 2012\Projects\Turism\Turism\obj\Release\Turism.csproj.GenerateResource.Cache
+E:\Документы\Visual Studio 2012\Projects\Turism\Turism\obj\Release\Turism.FormChoose.resources
+E:\Документы\Visual Studio 2012\Projects\Turism\Turism\obj\Release\Turism.FormEdit.resources
+F:\Torrent\Turism\Turism\bin\Release\Turism.exe.config
+F:\Torrent\Turism\Turism\obj\Release\Turism.exe
+F:\Torrent\Turism\Turism\obj\Release\Turism.pdb
+F:\Torrent\Turism\Turism\bin\Release\Turism.exe
+F:\Torrent\Turism\Turism\bin\Release\Turism.pdb
+F:\Torrent\Turism\Turism\obj\Release\Turism.csprojResolveAssemblyReference.cache
+F:\Torrent\Turism\Turism\obj\Release\Turism.Form1.resources
+F:\Torrent\Turism\Turism\obj\Release\Turism.FormChoose.resources
+F:\Torrent\Turism\Turism\obj\Release\Turism.FormEdit.resources
+F:\Torrent\Turism\Turism\obj\Release\Turism.Properties.Resources.resources
+F:\Torrent\Turism\Turism\obj\Release\Turism.csproj.GenerateResource.Cache
+F:\Torrent\Turism\Turism\bin\Release\MySql.Data.Entity.EF5.dll
+F:\Игорь\~Учеба\2 курс\Базы данных\Курсач\Turism\Turism\bin\Release\Turism.exe.config
+F:\Игорь\~Учеба\2 курс\Базы данных\Курсач\Turism\Turism\obj\Release\Turism.exe
+F:\Игорь\~Учеба\2 курс\Базы данных\Курсач\Turism\Turism\obj\Release\Turism.pdb
+F:\Игорь\~Учеба\2 курс\Базы данных\Курсач\Turism\Turism\bin\Release\Turism.exe
+F:\Игорь\~Учеба\2 курс\Базы данных\Курсач\Turism\Turism\bin\Release\Turism.pdb
+F:\Игорь\~Учеба\2 курс\Базы данных\Курсач\Turism\Turism\bin\Release\MySql.Data.Entity.EF5.dll
+F:\Игорь\~Учеба\2 курс\Базы данных\Курсач\Turism\Turism\obj\Release\Turism.csprojResolveAssemblyReference.cache
+F:\Игорь\~Учеба\2 курс\Базы данных\Курсач\Turism\Turism\obj\Release\Turism.Form1.resources
+F:\Игорь\~Учеба\2 курс\Базы данных\Курсач\Turism\Turism\obj\Release\Turism.FormChoose.resources
+F:\Игорь\~Учеба\2 курс\Базы данных\Курсач\Turism\Turism\obj\Release\Turism.FormEdit.resources
+F:\Игорь\~Учеба\2 курс\Базы данных\Курсач\Turism\Turism\obj\Release\Turism.Properties.Resources.resources
+F:\Игорь\~Учеба\2 курс\Базы данных\Курсач\Turism\Turism\obj\Release\Turism.csproj.GenerateResource.Cache
+F:\Игорь\~Учеба\2 курс\Базы данных\Курсач\Turism\Turism\bin\Release\MySql.Data.dll
